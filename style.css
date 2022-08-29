@@ -2,7 +2,19 @@ html {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-li a {background-color: coral;
-color: black;}
+li a {color: rgb(236, 9, 20);}
 
 li a:hover {background-color: goldenrod;}
+
+h1 {text-align: center;
+background-color: aquamarine;
+margin: 0 300px}
+
+p {
+    text-align: justify;
+    margin: 30px 300px;
+}
+
+.postcode-lijst ul {
+    width: 620px;
+    margin: 0 300px;}
